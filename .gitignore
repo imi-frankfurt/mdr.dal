@@ -1,0 +1,13 @@
+bin
+/target/
+/.settings/
+.classpath
+.project
+.metadata
+.idea
+*.iml
+src/test/java/de/mig/mdr/dao/subtests/DataElementDAOTest\.java
+
+src/test/java/de/mig/mdr/dao/conf/log4j2\.xml
+
+src/test/java/de/mig/mdr/dao/conf/postgresql\.xml\.example
